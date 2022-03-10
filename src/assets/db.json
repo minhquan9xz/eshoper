@@ -1,0 +1,222 @@
+{
+    "product": [{
+            "id": 1,
+            "amount": 10,
+            "product_name": "QUẦN JEANS NAM WASH PHỐI PATTERN",
+            "gender": 1,
+            "category": "jeans",
+            "price": "699.000đ",
+            "src": "https://cdn.boo.vn/products/4794/quan-jeans-nam-wash-phoi-pattern-0vfwf-1-463.jpg"
+        },
+        {
+            "id": 2,
+            "amount": 10,
+            "product_name": "QUẦN JEANS NAM STRAIGHT",
+            "gender": 1,
+            "category": "jeans",
+            "price": "295.000đđ",
+            "src": "https://cdn.boo.vn/products/4482/quan-jeans-nam-straight-solidxam-grayghi-2-463.jpg"
+        },
+        {
+            "id": 3,
+            "amount": 10,
+            "product_name": "QUẦN JEANS NAM SLIMFIT",
+            "gender": 1,
+            "category": "jeans",
+            "price": "445.000đ",
+            "src": "https://cdn.boo.vn/products/299/quan-jeans-nam-slimfit-denim-jeansxanh-da-troi-bluedenim-nhat-b8nj006-1-463.jpg"
+
+        },
+        {
+            "id": 4,
+            "amount": 10,
+            "product_name": "QUẦN JEANS NAM STRAIGHT MANDALORIAN",
+            "gender": 1,
+            "category": "jeans",
+            "price": "395.000đ",
+            "src": "https://cdn.boo.vn/products/211/quan-jeans-nam-straight-mandalorian-o3b4o-3-463.jpg"
+        },
+        {
+            "id": 5,
+            "amount": 10,
+            "product_name": "QUẦN JEANS NAM CROP STRAIGHT",
+            "gender": 1,
+            "category": "jeans",
+            "price": "345.000đ",
+            "src": "https://cdn.boo.vn/products/741/quan-jeans-nam-crop-straight-denim-jeansxanh-da-troi-bluedenim-dam-b8nj046-1-463.jpg"
+
+        },
+        {
+            "id": 6,
+            "amount": 10,
+            "product_name": "QUẦN JEANS NAM TAPERED XẮN GẤU",
+            "gender": 1,
+            "category": "jeans",
+            "price": "395.000đ",
+            "src": "https://cdn.boo.vn/products/739/quan-jeans-nam-tapered-xan-gau-denim-xanh-trung-1-463.jpg"
+        },
+        {
+            "id": 7,
+            "amount": 10,
+            "product_name": "ÁO SƠ MI NHUNG TĂM THÊU LOGO",
+            "gender": 1,
+            "category": "shirt",
+            "price": "599.000đ",
+            "src": "https://cdn.boo.vn/products/4802/ao-so-mi-nhung-tam-theu-logo-ptuui-0-463.jpg"
+        },
+        {
+            "id": 8,
+            "amount": 10,
+            "product_name": "ÁO SƠ MI OVERSIZED PATTERN",
+            "gender": 1,
+            "category": "shirt",
+            "price": "599.000đ",
+            "src": "https://cdn.boo.vn/products/4731/ao-so-mi-oversized-pattern-qjkdn-0-463.jpg"
+        },
+        {
+            "id": 9,
+            "amount": 10,
+            "product_name": "ÁO SƠ MI NAM DENIM NGẮN TAY",
+            "gender": 1,
+            "category": "shirt",
+            "price": "599.000đ",
+            "src": "https://cdn.boo.vn/products/4465/ao-so-mi-nam-denim-ngan-tay-meare-3-463.jpg"
+        },
+        {
+            "id": 10,
+            "amount": 10,
+            "product_name": "ÁO SƠ MI LOOSE BOO LAAB 3 MÀU",
+            "gender": 1,
+            "category": "shirt",
+            "price": "695.000đ",
+            "src": "https://cdn.boo.vn/products/471/ao-so-mi-nam-regular-dt-can-nguc-solidtrangwhitetrang-1-463.jpg"
+        },
+        {
+            "id": 11,
+            "amount": 10,
+            "product_name": "ÁO SƠ MI NAM LOOSE DT 2 TÚI",
+            "gender": 1,
+            "category": "shirt",
+            "price": "395.000đ",
+            "src": "https://cdn.boo.vn/products/176/ao-so-mi-nam-loose-dt-2-tui-afow4-0-463.jpg"
+        },
+        {
+            "id": 12,
+            "amount": 10,
+            "product_name": "ÁO SƠ MI NAM OVERSIZED LOGO MARVEL BOOZILLA",
+            "gender": 1,
+            "category": "shirt",
+            "price": "799.000đ",
+            "src": "https://cdn.boo.vn/products/4742/ao-so-mi-nam-oversized-logo-marvel-boozilla-tc7ai-1-463.jpg"
+        },
+        {
+            "id": 13,
+            "amount": 10,
+            "product_name": "CHÂN VÁY NỮ A-LINE XẺ V",
+            "gender": 2,
+            "category": "skirt",
+            "price": "195.000đ",
+            "src": "https://cdn.boo.vn/products/4528/chan-vay-nu-a-line-xe-v-ke-carovang-yellow-goldvang-13-0759-tpx-2-463.jpg"
+        },
+        {
+            "id": 14,
+            "amount": 10,
+            "product_name": "CHÂN VÁY NỮ A-LINE PLEATED",
+            "gender": 2,
+            "category": "skirt",
+            "price": "195.000đ",
+            "src": "https://cdn.boo.vn/products/4461/chan-vay-nu-a-line-pleated-ke-caronau-brownnau-1-463.jpg"
+        },
+        {
+            "id": 15,
+            "amount": 10,
+            "product_name": "CHÂN VÁY NỮ A-LINE THẮT LƯNG",
+            "gender": 2,
+            "category": "skirt",
+            "price": "195.000đ",
+            "src": "https://cdn.boo.vn/products/32/chan-vay-nu-a-line-that-lung-solidbe-beigebe-2-463.jpg"
+        },
+        {
+            "id": 16,
+            "amount": 10,
+            "product_name": "CHÂN VÁY NỮ A-LINE KẺ",
+            "gender": 2,
+            "category": "skirt",
+            "price": "195.000đ",
+            "src": "https://cdn.boo.vn/products/23/chan-vay-nu-a-line-ke-ke-caronau-brownnau-1-463.jpg"
+        },
+        {
+            "id": 17,
+            "amount": 10,
+            "product_name": "CHÂN VÁY NỮ A-LINE CHỐT SẬP",
+            "gender": 2,
+            "category": "skirt",
+            "price": "195.000đ",
+            "src": "https://cdn.boo.vn/products/170/chan-vay-nu-a-line-chot-sap-elzoh-2-463.jpg"
+        },
+        {
+            "id": 18,
+            "amount": 10,
+            "product_name": "CHÂN VÁY NỮ A-LINE LIỀN ĐAI",
+            "gender": 2,
+            "category": "skirt",
+            "price": "195.000đ",
+            "src": "https://cdn.boo.vn/products/3725/chan-vay-nu-a-line-lien-dai-ke-caronautrang-2-463.jpg"
+        },
+        {
+            "id": 19,
+            "amount": 10,
+            "product_name": "QUẦN JEANS NỮ SLOUCHY THÊU LỬA",
+            "gender": 2,
+            "category": "jeans",
+            "price": "395.000đ",
+            "src": "https://cdn.boo.vn/products/4476/quan-jeans-nu-slouchy-theu-lua-denim-jeansden-blackden-2-463.jpg"
+        },
+        {
+            "id": 20,
+            "amount": 10,
+            "product_name": "QUẦN JEANS NỮ MOM JEANS CẠP LIỀN",
+            "gender": 2,
+            "category": "jeans",
+            "price": "395.000đ",
+            "src": "https://cdn.boo.vn/products/4442/quan-jeans-nu-mom-jeans-cap-lien-denim-jeansbe-beigebe-1-463.jpg"
+        },
+        {
+            "id": 21,
+            "amount": 10,
+            "product_name": "QUẦN JEANS NỮ BAGGY CẠP CHUN",
+            "gender": 2,
+            "category": "jeans",
+            "price": "395.000đ",
+            "src": "https://cdn.boo.vn/products/339/quan-jeans-nu-baggy-cap-chun-lggzb-0-463.jpg"
+        },
+        {
+            "id": 22,
+            "amount": 10,
+            "product_name": "QUẦN JEANS NỮ WIDE LEG CARGO",
+            "gender": 2,
+            "category": "jeans",
+            "price": "395.000đ",
+            "src": "https://cdn.boo.vn/products/209/quan-jeans-nu-wide-leg-cargo-jqr5j-2-463.jpg"
+        },
+        {
+            "id": 23,
+            "amount": 10,
+            "product_name": "QUẦN JEANS NỮ SUÔNG LOANG MÀU",
+            "gender": 2,
+            "category": "jeans",
+            "price": "395.000đ",
+            "src": "https://cdn.boo.vn/products/4538/quan-jeans-nu-suong-loang-mau-xyzve-2-463.jpg"
+        },
+        {
+            "id": 24,
+            "amount": 10,
+            "product_name": "[EXPERMENTAL-01] GRADIENT DYED STRAIGHT JEANS",
+            "gender": 2,
+            "category": "jeans",
+            "price": "695.000đ",
+            "src": "https://cdn.boo.vn/products/530/expermental-01-gradient-dyed-straight-jeans-patten-hoa-tiethong-pink-magentahong-2-463.jpg"
+        }
+    ]
+
+}
