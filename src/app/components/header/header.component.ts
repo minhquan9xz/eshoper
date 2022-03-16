@@ -8,13 +8,23 @@ import { Product } from '../../model/product';
   styleUrls: ['./header.component.css'],
 })
 export class HeaderComponent implements OnInit {
-  public product_list: any;
+  dataLocal:any
+
   public arrayProductCart: any;
   constructor(private infProd: HttpProdService) {}
 
   ngOnInit(): void {
     this.infProd.product_Cart.subscribe((data) => {
       console.log('dataaaaa', data);
+      this.dataLocal = data.length
     });
+    
+    const productLocal = localStorage.getItem('cartLocal')
+    if(productLocal){
+      const a = JSON.parse(productLocal)
+      this.dataLocal = a?.length
+    
+    }
+    //   console.log('dataLocal',this.dataLocal.length);
   }
 }
