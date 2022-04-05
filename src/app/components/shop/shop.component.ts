@@ -14,7 +14,7 @@ export class ShopComponent implements OnInit {
   public productShop: any;
   // public inF_product: any;
   articles: any;
-  numberProduct: number | undefined;
+  numberProduct=1;
 
   constructor(
     private product: HttpServerService,
@@ -31,20 +31,18 @@ export class ShopComponent implements OnInit {
     const cartLocal = localStorage.getItem('cartLocal');
     if (cartLocal) {
       const data = JSON.parse(cartLocal);
-      const findProduct = data.find((res: any) => {
-        return res.id === item.id;
-      });
-      if (findProduct) {
-        const index = data.findIndex((i: any) => {
-          i.id === item.id;
-        });
+        const index = data.findIndex((i: any) =>
+          i.id === item.id
+        );
+        console.log('index',index);
+        
         data[index].numberProduct = data[index].numberProduct + 1;
         localStorage.setItem('dataLocal', data);
-      } else {
-        const product_Cart = [...data, 'amount', findProduct];
-        console.log('findProduct', findProduct);
-        console.log('product_Cart', product_Cart);
-      }
+      //  else {
+      //   const product_Cart = [...data, findProduct];
+      //   console.log('findProduct', findProduct);
+      //   console.log('product_Cart', product_Cart);
+      // }
       let newCart = JSON.parse(cartLocal);
       console.log('newCart', newCart);
       newCart.push(item);
